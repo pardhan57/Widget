@@ -40,7 +40,7 @@ The plugin uses AJAX to update the widget content without reloading the entire p
 This plugin is released under the [GNU General Public License, version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
 
 ## Support
-For support or questions, please contact the plugin author.
+For support or questions, please contact at pardhansingh57@gmail.com.
 
 ## Author
 Pardhan singh
